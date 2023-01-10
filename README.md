@@ -1,0 +1,2 @@
+# Trash
+Flutter Individual Project
